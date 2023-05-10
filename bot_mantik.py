@@ -18,7 +18,7 @@ def emoji_olusturucu():
 
 
 def yazi_tura():
-    para = random.randint(0, 2)
+    para = random.randint(0, 1)
     if para == 0:
         return "YAZI"
     else:
